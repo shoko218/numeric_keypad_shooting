@@ -1,0 +1,2 @@
+# numeric_keypad_shooting
+テンキーで操作するシューティングゲームです。
